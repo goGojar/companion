@@ -1,0 +1,6 @@
+com.example.companion.test.app-jetified-annotation-experimental-1.3.0-0 C:\Users\yoges\.gradle\caches\transforms-3\a70d14b043f415a5b9694100637f206d\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.companion.test.app-jetified-core-1.5.0-1 C:\Users\yoges\.gradle\caches\transforms-3\e439c7b985fa2c6d5b7161d517a28212\transformed\jetified-core-1.5.0\res
+com.example.companion.test.app-androidTest-2 C:\Users\yoges\Downloads\Companion-Mental-Health-App-main\app\build\generated\res\resValues\androidTest\debug
+com.example.companion.test.app-mergeDebugAndroidTestResources-3 C:\Users\yoges\Downloads\Companion-Mental-Health-App-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.companion.test.app-mergeDebugAndroidTestResources-4 C:\Users\yoges\Downloads\Companion-Mental-Health-App-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.companion.test.app-merged_res-5 C:\Users\yoges\Downloads\Companion-Mental-Health-App-main\app\build\intermediates\merged_res\debugAndroidTest

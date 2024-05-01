@@ -1,0 +1,814 @@
+[
+    {
+        "merged": "com.example.companion.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.companion.app-main-7:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_ic_helpline.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/ic_helpline.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_activity_anxiety.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/activity_anxiety.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_emotiondetection.jpg.flat",
+        "source": "com.example.companion.app-main-7:/drawable/emotiondetection.jpg"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/raw_thunderstorm.mp3.flat",
+        "source": "com.example.companion.app-main-7:/raw/thunderstorm.mp3"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_cool.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/cool.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_moodlistbackground.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/moodlistbackground.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_activity_ptsd_1.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/activity_ptsd_1.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_gradientbg.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/gradientbg.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper9.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper9.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_notif_icon.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/notif_icon.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_ic_quiz.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/ic_quiz.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/font_arima_madurai_extrabold.xml.flat",
+        "source": "com.example.companion.app-main-7:/font/arima_madurai_extrabold.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_contact.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/contact.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper38.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper38.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_home_night.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/home_night.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/font_bungee.xml.flat",
+        "source": "com.example.companion.app-main-7:/font/bungee.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_activity_ptsd_2.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/activity_ptsd_2.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/font_modak.xml.flat",
+        "source": "com.example.companion.app-main-7:/font/modak.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_ic_emergency.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/ic_emergency.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper37.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper37.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_womanout.jpg.flat",
+        "source": "com.example.companion.app-main-7:/drawable/womanout.jpg"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.companion.app-main-7:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_edit_button.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/edit_button.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_meditationcircle.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/meditationcircle.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_breathing_background.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/breathing_background.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/menu_drawer_menu.xml.flat",
+        "source": "com.example.companion.app-main-7:/menu/drawer_menu.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_activity_moodlog.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/activity_moodlog.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_asterisk.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/asterisk.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/raw_forest2.mp3.flat",
+        "source": "com.example.companion.app-main-7:/raw/forest2.mp3"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_angry.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/angry.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_angel.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/angel.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_sad.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/sad.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_logo_foreground.png.flat",
+        "source": "com.example.companion.app-main-7:/mipmap-xxxhdpi/ic_launcher_logo_foreground.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_activity_login.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_frag_home_dawn.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/frag_home_dawn.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_appsplash.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/appsplash.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper8.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper8.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/mipmap-xhdpi_ic_launcher_logo_foreground.png.flat",
+        "source": "com.example.companion.app-main-7:/mipmap-xhdpi/ic_launcher_logo_foreground.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.companion.app-main-7:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_home_day.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/home_day.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_ptsd.jpg.flat",
+        "source": "com.example.companion.app-main-7:/drawable/ptsd.jpg"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_activity_register.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_logo_foreground.png.flat",
+        "source": "com.example.companion.app-main-7:/mipmap-xxhdpi/ic_launcher_logo_foreground.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_ic_mood.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/ic_mood.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_sleepy.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/sleepy.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_activity_ptsd_results_2.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/activity_ptsd_results_2.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_wallpaperlayout.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/wallpaperlayout.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/mipmap-mdpi_ic_launcher_logo_foreground.png.flat",
+        "source": "com.example.companion.app-main-7:/mipmap-mdpi/ic_launcher_logo_foreground.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.companion.app-main-7:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_sky.gif.flat",
+        "source": "com.example.companion.app-main-7:/drawable/sky.gif"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_ic_home.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_home_sunset.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/home_sunset.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_sick.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/sick.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_activity_anxiety_results.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/activity_anxiety_results.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_camera_icon.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/camera_icon.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper20.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper20.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_logo.png.flat",
+        "source": "com.example.companion.app-main-7:/mipmap-xxhdpi/ic_launcher_logo.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_activity_addmood.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/activity_addmood.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper27.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper27.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_textview_outline.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/textview_outline.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_waterfall.gif.flat",
+        "source": "com.example.companion.app-main-7:/drawable/waterfall.gif"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.companion.app-main-7:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_nerd.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/nerd.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_ic_sleep.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/ic_sleep.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/mipmap-mdpi_ic_launcher_logo.png.flat",
+        "source": "com.example.companion.app-main-7:/mipmap-mdpi/ic_launcher_logo.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper12.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper12.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper19.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper19.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_ic_breathe.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/ic_breathe.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_info_task.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/info_task.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_activity_ambient.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/activity_ambient.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.companion.app-main-7:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper34.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper34.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_stars.gif.flat",
+        "source": "com.example.companion.app-main-7:/drawable/stars.gif"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper21.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper21.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_ic_ambient.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/ic_ambient.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_activity_startlogin.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/activity_startlogin.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_activity_depression_result.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/activity_depression_result.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper18.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper18.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/font_yesteryear.xml.flat",
+        "source": "com.example.companion.app-main-7:/font/yesteryear.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_defaultwallpaperlayout.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/defaultwallpaperlayout.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/raw_breeze.mp3.flat",
+        "source": "com.example.companion.app-main-7:/raw/breeze.mp3"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper4.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper4.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_logo_round.png.flat",
+        "source": "com.example.companion.app-main-7:/mipmap-xxhdpi/ic_launcher_logo_round.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_devil.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/devil.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/raw_forest.mp3.flat",
+        "source": "com.example.companion.app-main-7:/raw/forest.mp3"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_lovely.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/lovely.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper41.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper41.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_activity_quiz.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/activity_quiz.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/mipmap-hdpi_ic_launcher_logo_round.png.flat",
+        "source": "com.example.companion.app-main-7:/mipmap-hdpi/ic_launcher_logo_round.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_plussign.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/plussign.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.companion.app-main-7:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/mipmap-hdpi_ic_launcher_logo.png.flat",
+        "source": "com.example.companion.app-main-7:/mipmap-hdpi/ic_launcher_logo.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_ic_goals.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/ic_goals.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper33.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper33.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_view_audio.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/view_audio.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/raw_rain.mp3.flat",
+        "source": "com.example.companion.app-main-7:/raw/rain.mp3"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/raw_campfire.mp3.flat",
+        "source": "com.example.companion.app-main-7:/raw/campfire.mp3"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_logo.png.flat",
+        "source": "com.example.companion.app-main-7:/mipmap-xxxhdpi/ic_launcher_logo.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_activity_mood.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/activity_mood.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_logo.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper39.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper39.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper13.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper13.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper26.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper26.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_activity_breathing_exercise.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/activity_breathing_exercise.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper16.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper16.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_waterfall2.gif.flat",
+        "source": "com.example.companion.app-main-7:/drawable/waterfall2.gif"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/raw_bird_ambience.mp3.flat",
+        "source": "com.example.companion.app-main-7:/raw/bird_ambience.mp3"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper2.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper2.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_listview_layout.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/listview_layout.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.companion.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/mipmap-mdpi_ic_launcher_logo_round.png.flat",
+        "source": "com.example.companion.app-main-7:/mipmap-mdpi/ic_launcher_logo_round.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper31.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper31.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/font_bangers.xml.flat",
+        "source": "com.example.companion.app-main-7:/font/bangers.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_listviewbackground.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/listviewbackground.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.companion.app-main-7:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_ic_habit.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/ic_habit.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/raw_moonlight_sonata.mp3.flat",
+        "source": "com.example.companion.app-main-7:/raw/moonlight_sonata.mp3"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_sunset.gif.flat",
+        "source": "com.example.companion.app-main-7:/drawable/sunset.gif"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper15.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper15.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_info_contact_dialog.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/info_contact_dialog.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_neutral.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/neutral.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/raw_ocean_waves.mp3.flat",
+        "source": "com.example.companion.app-main-7:/raw/ocean_waves.mp3"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_todolistbackground.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/todolistbackground.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper3.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper3.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper30.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper30.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper24.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper24.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_activity_result.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/activity_result.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_waterfall3.gif.flat",
+        "source": "com.example.companion.app-main-7:/drawable/waterfall3.gif"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_activity_breathing.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/activity_breathing.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_logo.xml.flat",
+        "source": "com.example.companion.app-main-7:/mipmap-anydpi-v26/ic_launcher_logo.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/anim_fade_in.xml.flat",
+        "source": "com.example.companion.app-main-7:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper40.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper40.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_habit_tracker_background.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/habit_tracker_background.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/mipmap-xhdpi_ic_launcher_logo_round.png.flat",
+        "source": "com.example.companion.app-main-7:/mipmap-xhdpi/ic_launcher_logo_round.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper14.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper14.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper22.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper22.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_water.gif.flat",
+        "source": "com.example.companion.app-main-7:/drawable/water.gif"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_triangle_bg.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/triangle_bg.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_ic_contacts.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/ic_contacts.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper25.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper25.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_quiz_button.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/quiz_button.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_rounded_button.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/rounded_button.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper5.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper5.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_meditation.gif.flat",
+        "source": "com.example.companion.app-main-7:/drawable/meditation.gif"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_quiz_background.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/quiz_background.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper17.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper17.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_logo_round.png.flat",
+        "source": "com.example.companion.app-main-7:/mipmap-xxxhdpi/ic_launcher_logo_round.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_app_logo_cropped.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/app_logo_cropped.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_scared.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/scared.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper32.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper32.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_ic_wallpaper.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/ic_wallpaper.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/anim_topanimation.xml.flat",
+        "source": "com.example.companion.app-main-7:/anim/topanimation.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper35.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper35.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_edit_profile_dialog.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/edit_profile_dialog.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_task.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/task.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_activity_wallpaper.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/activity_wallpaper.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_add_task.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/add_task.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/mipmap-xhdpi_ic_launcher_logo.png.flat",
+        "source": "com.example.companion.app-main-7:/mipmap-xhdpi/ic_launcher_logo.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper6.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper6.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_calender.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/calender.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_logo_round.xml.flat",
+        "source": "com.example.companion.app-main-7:/mipmap-anydpi-v26/ic_launcher_logo_round.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_manbulb.jpg.flat",
+        "source": "com.example.companion.app-main-7:/drawable/manbulb.jpg"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper28.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper28.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper11.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper11.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_complete_task.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/complete_task.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_depressed.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/depressed.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_navigation_header.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/navigation_header.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_launcher_logo.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/launcher_logo.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper7.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper7.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_ic_todo.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/ic_todo.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_activity_depression.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/activity_depression.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_info_task_dialog.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/info_task_dialog.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_delete_task.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/delete_task.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_edit_icon.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/edit_icon.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper29.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper29.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.companion.app-main-7:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_frag_home_sunset.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/frag_home_sunset.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_music_icon.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/music_icon.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_happy.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/happy.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper1.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper1.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_flushed.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/flushed.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_frag_home_night.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/frag_home_night.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_ic_profile.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_activity_camera.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/activity_camera.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_audio_play_background.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/audio_play_background.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_ic_camera.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/ic_camera.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_frag_home_day.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/frag_home_day.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.companion.app-main-7:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_home_dawn.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/home_dawn.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper23.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper23.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper36.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper36.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable-xxhdpi_wallpaper10.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable-xxhdpi/wallpaper10.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/font_antic.xml.flat",
+        "source": "com.example.companion.app-main-7:/font/antic.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/layout_activity_profile.xml.flat",
+        "source": "com.example.companion.app-main-7:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/mipmap-hdpi_ic_launcher_logo_foreground.png.flat",
+        "source": "com.example.companion.app-main-7:/mipmap-hdpi/ic_launcher_logo_foreground.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_defaultprofile.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/defaultprofile.png"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/anim_bottomanimation.xml.flat",
+        "source": "com.example.companion.app-main-7:/anim/bottomanimation.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_ic_live_help_black_24dp.xml.flat",
+        "source": "com.example.companion.app-main-7:/drawable/ic_live_help_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.companion.app-merged_res-5:/drawable_to_do_list.png.flat",
+        "source": "com.example.companion.app-main-7:/drawable/to_do_list.png"
+    }
+]

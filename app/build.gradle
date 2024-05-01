@@ -1,0 +1,81 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.google.gms.google-services'
+
+android {
+    compileSdkVersion 34
+    defaultConfig {
+
+        applicationId "com.pacman.MentAlly"
+        minSdkVersion 31
+        targetSdkVersion 34
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    namespace 'com.example.companion'
+    compileOptions {
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    compileSdk 34
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.google.android.material:material:1.11.0'
+    implementation 'androidx.annotation:annotation:1.7.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
+    implementation 'com.google.firebase:firebase-storage:20.3.0'
+    implementation 'com.google.firebase:firebase-database:20.3.0'
+    implementation 'androidx.coordinatorlayout:coordinatorlayout:1.2.0'
+    implementation 'androidx.annotation:annotation-jvm:1.7.1'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+    implementation 'com.google.firebase:firebase-analytics:21.5.1'
+    implementation 'com.google.firebase:firebase-auth:22.3.1'
+    implementation 'com.google.firebase:firebase-firestore:24.10.2'
+    implementation 'com.firebaseui:firebase-ui-firestore:4.3.1'
+    implementation "com.firebaseui:firebase-ui-auth:3.0.0"
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+
+
+    //glide
+    implementation 'com.github.bumptech.glide:glide:4.4.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.4.0'
+
+    implementation 'com.microsoft.projectoxford:face:1.4.3'
+
+
+
+
+    //circle imageview
+    implementation 'de.hdodenhof:circleimageview:2.2.0'
+    implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.19'
+
+
+}
+//added all firebase implementations to easily connect the app to the firebase database.
+// in below line we are adding configurations to our project.
+configurations.all {
+    // in below line we are adding strategy for each dependency and requesting the details
+    resolutionStrategy.eachDependency {DependencyResolveDetails details ->
+        // on below line we are getting to see the details using requested.
+        def requested = details.requested
+        // in below line we are requesting a group.
+        if (requested.group == 'com.android.support'){
+            // on below line we are checking if the request is a group and checking if it starts with com.android.support.
+            if(!requested.name.startsWith("multidex")){
+                // if the requested name starts with multi dex then we are displaying the use version which is given below.
+                details.useVersion '25.3.0'
+            }
+        }
+    }
+} 

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-measurement-base:21.5.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../mentally-master/caches/transforms-3/ce4f1228f6a307c8b9daa2a4e5279973/transformed/jetified-play-services-measurement-base-21.5.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../mentally-master/caches/transforms-3/ce4f1228f6a307c8b9daa2a4e5279973/transformed/jetified-play-services-measurement-base-21.5.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../mentally-master/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement-base/21.5.1/fb10b466d50fe41dab56aaf738339ac74fe027f/play-services-measurement-base-21.5.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "509938212141",
+    "project_id": "mentally-38afd",
+    "storage_bucket": "mentally-38afd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509938212141:android:beef34d86dff9cb55d47a4",
+        "android_client_info": {
+          "package_name": "com.pacman.MentAlly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvDF6Q6hC8I8gBSXVj2-fI4SrVpzaQtLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
